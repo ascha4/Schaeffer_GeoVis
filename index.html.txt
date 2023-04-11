@@ -9,7 +9,9 @@
 	<h1> Geovisualization Portfolio </h1>
 	<p> In this webpage, you will see a variety of geovisualization projects </p>
 
+	<p> <a href-"https://geo-social.com"> My personal website </a> </p>
 
+	<p> <img src-"images/chart.png" /> </p>
 </body>
 
 
